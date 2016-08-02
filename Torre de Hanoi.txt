@@ -1,0 +1,148 @@
+Esta é a sequência de movimentos para 4 discos:
+
+    *        |        |    
+   ***       |        |    
+  *****      |        |    
+ *******     |        |    
+----+--------+--------+----
+
+Passo: 1
+Disco movido da 1ª haste para a 3ª haste
+
+    |        |        |    
+   ***       |        |    
+  *****      |        |    
+ *******     |        *    
+----+--------+--------+----
+
+Passo: 2
+Disco movido da 1ª haste para a 2ª haste
+
+    |        |        |    
+    |        |        |    
+  *****      |        |    
+ *******    ***       *    
+----+--------+--------+----
+
+Passo: 3
+Disco movido da 3ª haste para a 2ª haste
+
+    |        |        |    
+    |        |        |    
+  *****      *        |    
+ *******    ***       |    
+----+--------+--------+----
+
+Passo: 4
+Disco movido da 1ª haste para a 3ª haste
+
+    |        |        |    
+    |        |        |    
+    |        *        |    
+ *******    ***     *****  
+----+--------+--------+----
+
+Passo: 5
+Disco movido da 2ª haste para a 1ª haste
+
+    |        |        |    
+    |        |        |    
+    *        |        |    
+ *******    ***     *****  
+----+--------+--------+----
+
+Passo: 6
+Disco movido da 2ª haste para a 3ª haste
+
+    |        |        |    
+    |        |        |    
+    *        |       ***   
+ *******     |      *****  
+----+--------+--------+----
+
+Passo: 7
+Disco movido da 1ª haste para a 3ª haste
+
+    |        |        |    
+    |        |        *    
+    |        |       ***   
+ *******     |      *****  
+----+--------+--------+----
+
+Passo: 8
+Disco movido da 1ª haste para a 2ª haste
+
+    |        |        |    
+    |        |        *    
+    |        |       ***   
+    |     *******   *****  
+----+--------+--------+----
+
+Passo: 9
+Disco movido da 3ª haste para a 2ª haste
+
+    |        |        |    
+    |        |        |    
+    |        *       ***   
+    |     *******   *****  
+----+--------+--------+----
+
+Passo: 10
+Disco movido da 3ª haste para a 1ª haste
+
+    |        |        |    
+    |        |        |    
+    |        *        |    
+   ***    *******   *****  
+----+--------+--------+----
+
+Passo: 11
+Disco movido da 2ª haste para a 1ª haste
+
+    |        |        |    
+    |        |        |    
+    *        |        |    
+   ***    *******   *****  
+----+--------+--------+----
+
+Passo: 12
+Disco movido da 3ª haste para a 2ª haste
+
+    |        |        |    
+    |        |        |    
+    *      *****      |    
+   ***    *******     |    
+----+--------+--------+----
+
+Passo: 13
+Disco movido da 1ª haste para a 3ª haste
+
+    |        |        |    
+    |        |        |    
+    |      *****      |    
+   ***    *******     *    
+----+--------+--------+----
+
+Passo: 14
+Disco movido da 1ª haste para a 2ª haste
+
+    |        |        |    
+    |       ***       |    
+    |      *****      |    
+    |     *******     *    
+----+--------+--------+----
+
+Passo: 15
+Disco movido da 3ª haste para a 2ª haste
+
+    |        *        |    
+    |       ***       |    
+    |      *****      |    
+    |     *******     |    
+----+--------+--------+----
+
+
+15 passos são nessesários para resolver o problema para 4 discos
+
+
+Obrigado por desfrutar de nosso programa, esperamos vê-lo novamente em breve
